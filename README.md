@@ -1,1 +1,1 @@
-# algorithm-problem-exam
+# algorithm-problem-practice
