@@ -19,7 +19,7 @@ public class 분수의덧셈 {
         return new int[]{numer / gcd, lcm / gcd};
     }
 
-    private int gcd(int a, int b) {
+    private int gcd(int a, int b) { 
         while (b != 0) {
             int temp = b;
             b = a % b;
