@@ -1,1 +1,1 @@
-# algorithm-problem-practice
+# programmers-algorithm-practice
